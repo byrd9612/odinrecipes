@@ -1,0 +1,14 @@
+*{background-color: tan; color: black; font-family: 'Courier New', Courier, monospace;}
+#body{text-align: left;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #chef {border-image-outset: ; border-width: thick; border-style: outset; border-color: black;}
+
+  #button{text-align: center;}
+
+ #b2{text-align: center;}
