@@ -12,3 +12,9 @@ ul {
   #button{text-align: center;}
 
  #b2{text-align: center;}
+
+ #song {
+    margin: 100px;
+    padding: 10px;
+    border: 15px;
+ }
